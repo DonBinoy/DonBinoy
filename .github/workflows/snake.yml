@@ -1,130 +1,25 @@
+name: Generate Contribution Snake
 
-⬆️ Anything inside **triple backticks** is **INTENTIONALLY code-styled** (monospace box).
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-👉 I used it **only for the “ABOUT ME” section** to give it a hacker-terminal / profile-card feel.
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: DonBinoy
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-All the **other sections are NOT code**  
-They are **normal Markdown + HTML**, which is **how GitHub profiles are supposed to be built**.
-
-💡 **README.md ≠ programming file**  
-It’s a **Markdown document**, not pure code.
-
----
-
-## ✅ NOTHING IS MISSING
-Your README is already **100% complete and correct**.  
-But if you want **ZERO code-style boxes**, I’ll give you a **CLEAN VERSION** without ```txt blocks.
-
----
-
-# 🔥 FULL CLEAN VERSION (NO CODE BLOCKS AT ALL)
-
-👉 Replace your README **entirely** with this if you want everything normal-styled.
-
-```md
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Don%20Binoy&fontColor=00BFFF&fontSize=82&desc=Design%20•%20Code%20•%20Cinematic%20Thinking&descAlignY=72&animation=fadeIn" />
-</p>
-
-<h3 align="center">
-Graphic Designer • Frontend Developer • BCA Student
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=750&lines=Design+Meets+Code;React+%7C+Next.js+%7C+UI%2FUX;Admin+Panels+%7C+E-Commerce+Systems;Cinematic+Storytelling+with+Code;Kerala+Fuel+%3D+Tea+%26+Pazhampori" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DonBinoy&label=PROFILE+VIEWS&color=00BFFF&style=flat-square" />
-</p>
-
----
-
-## 🧑‍💻 ABOUT ME
-- 🎨 Professional Graphic Designer with a developer mindset  
-- ⚛️ Frontend Developer (React & Next.js)  
-- 🧠 Builds scalable Admin Panels & Custom Systems  
-- 🎬 Creator of **Project HOLLOW** (cinematic short film)  
-- ☕ Runs on Tea + Pazhampori  
-- 🎯 Clean design, strong logic, cinematic thinking  
-
----
-
-## 🛠️ TECH STACK
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma,photoshop,illustrator,nodejs,dotnet,git,github" />
-</p>
-
----
-
-## 📊 GITHUB STATS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DonBinoy&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonBinoy&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 TOP LANGUAGES
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBinoy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 ACTIVITY GRAPH
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DonBinoy&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GITHUB TROPHIES
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DonBinoy&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DonBinoy/DonBinoy/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎯 CURRENT FOCUS
-- ⚡ Advanced React & Next.js  
-- 🎨 Premium UI / UX  
-- 🧠 Admin dashboards & scalable systems  
-- 🎬 Cinematic storytelling  
-
----
-
-## 🎬 FEATURED PROJECT — **HOLLOW**
-*A fallen assassin returns — not for revenge, but closure.*
-
-🩸 Stylized violence  
-🎞️ Spider-Verse inspired animation  
-🖤 Emotion-driven narrative  
-
----
-
-## 🌐 CONNECT WITH ME
-<p align="center">
-  <a href="https://instagram.com/don_binoy_">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://linkedin.com/in/don-binoy-4050b2224">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00BFFF&height=160&section=footer"/>
-</p>
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
