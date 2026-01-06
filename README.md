@@ -52,8 +52,8 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/YOUR_ID"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://linkedin.com/in/YOUR_ID"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://instagram.com/don_binoy_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://linkedin.com/in/don-binoy-4050b2224"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
