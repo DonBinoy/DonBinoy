@@ -1,198 +1,262 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00161a,100:00f2ff&height=280&section=header&text=DON%20BINOY&fontSize=88&fontColor=00f2ff&fontAlignY=42&desc=FRONTEND%20ENGINEER%20%E2%80%A2%20CREATIVE%20TECHNOLOGIST&descAlignY=67&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ========================================================= -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=21&duration=2800&pause=900&color=00F2FF&center=true&vCenter=true&width=850&lines=INITIALIZING+DON%27S+HEADQUARTERS...;FRONTEND+ENGINEER+%7C+CREATIVE+TECHNOLOGIST;BUILDING+INTERFACES+THAT+FEEL+ALIVE.;DESIGN.+ENGINEERING.+EXPERIMENTATION.;SYSTEM+STATUS%3A+ONLINE+%E2%9A%A1" />
+<!--                    HERO CHARACTER                          -->
+
+<!-- ========================================================= -->
+
+<img src="./assets/don-hero.gif" width="100%" alt="Don Binoy animated character"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=DonBinoy&label=PROFILE%20ACCESS&color=00f2ff&style=for-the-badge" />
+# `DON BINOY`
+
+### FRONTEND ENGINEER  ·  CREATIVE TECHNOLOGIST
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=00F2FF&center=true&vCenter=true&width=700&lines=BUILDING+DIGITAL+EXPERIENCES;CODE+%C3%97+DESIGN+%C3%97+MOTION;TURNING+IDEAS+INTO+INTERFACES;CURRENTLY+BUILDING+%40+ASIMOVX" />
+
+<br/>
+
+`● ONLINE`    `KERALA, INDIA`    `2026`
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/don-binoy-4050b2224">
-<img src="https://img.shields.io/badge/LINKEDIN-00F2FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00F2FF?style=for-the-badge&logo=linkedin&logoColor=050505"/>
 </a>
 
 <a href="https://instagram.com/don_binoy_">
-<img src="https://img.shields.io/badge/INSTAGRAM-FF0055?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FF0055?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://github.com/DonBinoy">
 <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00F2FF"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-# ⚡ `SYSTEM BOOT`
-
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                         DON // DIGITAL HQ                            │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  IDENTITY        DON BINOY                                           │
-│  ROLE            FRONTEND ENGINEER                                  │
-│  SECONDARY       CREATIVE TECHNOLOGIST                              │
-│  ORGANIZATION    ASIMOVX TECHNOLOGIES                                │
-│  LOCATION        KERALA, INDIA                                      │
-│  MODE            BUILDING                                            │
-│                                                                      │
-│  CORE DIRECTIVE                                                      │
-│  ────────────────────────────────────────────────────────────────    │
-│  Turn complex logic into simple interfaces.                         │
-│  Turn static interfaces into experiences.                            │
-│  Turn ideas into products.                                           │
-│                                                                      │
-│  STATUS          ● ONLINE                                            │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-> **"Turning complex logic into cinematic digital experiences."**
-
-Currently engineering digital products at **AsimovX Technologies**.
-
-When I'm not building high-performance frontends, I'm working across **visual design, UI systems, branding, motion and experimental digital products.**
-
-I don't just want things to **work**.
-
-I want them to **feel right.**
-
----
-
-# 🎯 `CURRENT MISSION`
-
-<div align="center">
-
-| SYSTEM                  |              STATUS              |
-| :---------------------- | :------------------------------: |
-| 🌐 Frontend Engineering |   `████████████████████` ONLINE  |
-| 🎨 Visual Design        |   `███████████████████░` ACTIVE  |
-| 🎬 Motion & Video       |   `██████████████████░░` ACTIVE  |
-| 🧠 Product Experiments  |  `████████████████░░░░` RUNNING  |
-| 🤖 AI / Agentic Systems | `███████████████░░░░░` EXPLORING |
-
-</div>
-
-```text
-CURRENT OBJECTIVES
-────────────────────────────────────────────────────────
-
-[01] Build interfaces people actually enjoy using.
-
-[02] Explore the intersection of frontend engineering,
-     visual design and motion.
-
-[03] Build experimental tools that solve real problems.
-
-[04] Learn systems deeply instead of just learning syntax.
-
-[05] Make the web a little less boring.
-```
-
----
-
-# 🧬 `THE ARCHITECTURE`
-
-<div align="center">
-
-```text
-                         ┌─────────────────────┐
-                         │       DON HQ        │
-                         │    CORE SYSTEM      │
-                         └──────────┬──────────┘
-                                    │
-                  ┌─────────────────┼─────────────────┐
-                  │                 │                 │
-                  ▼                 ▼                 ▼
-          ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
-          │   ENGINEER   │  │   CREATIVE   │  │ EXPERIMENTER │
-          ├──────────────┤  ├──────────────┤  ├──────────────┤
-          │ React        │  │ Photoshop    │  │ AI           │
-          │ Next.js      │  │ Illustrator  │  │ Interfaces   │
-          │ TypeScript   │  │ Figma        │  │ Prototypes   │
-          │ JavaScript   │  │ DaVinci      │  │ Systems      │
-          │ APIs         │  │ Motion       │  │ Products     │
-          └──────────────┘  └──────────────┘  └──────────────┘
-```
+<img src="https://komarev.com/ghpvc/?username=DonBinoy&label=VISITORS&color=00f2ff&style=flat-square"/>
 
 </div>
 
 ---
 
-# 🛠 `TECH ARSENAL`
+<div align="center">
 
-### 🌐 FRONTEND // BUILD
+## `01 / CHARACTER PROFILE`
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,framer,threejs" />
-</p>
+</div>
 
-### ⚙️ BACKEND // LOGIC
+<table>
+<tr>
+<td width="60%">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,php,mongodb,postgres,mysql" />
-</p>
+### DON BINOY
 
-### 🔧 TOOLS // INFRASTRUCTURE
+I'm a **Frontend Engineer and Creative Technologist** who works somewhere between engineering, visual design and motion.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman" />
-</p>
+Currently building digital products at **AsimovX Technologies**.
 
-### 🎨 CREATIVE // VISUAL SYSTEMS
+Outside the engineering side, I work on branding, visual design, UI systems, motion graphics and experimental digital products.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,aftereffects,premiere" />
-</p>
+My goal is simple:
+
+> **Build things that work beautifully.**
+
+</td>
+
+<td width="40%">
+
+```text
+╭──────────────────────╮
+│      PLAYER INFO     │
+├──────────────────────┤
+│                      │
+│ NAME    DON BINOY    │
+│ CLASS   ENGINEER     │
+│ TYPE    CREATIVE     │
+│                      │
+│ CODE       ████████░ │
+│ DESIGN     █████████ │
+│ MOTION     ███████░░ │
+│ IDEAS      █████████ │
+│                      │
+│ STATUS     ONLINE    │
+│                      │
+╰──────────────────────╯
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎬 `EXPERIENCE LOG`
+<div align="center">
+
+## `02 / CURRENT QUEST`
+
+</div>
 
 ```text
-╭────────────────────────────────────────────────────────────────────╮
-│  2025 — PRESENT                                                    │
-│                                                                    │
-│  FRONTEND DEVELOPER                                                │
-│  ASIMOVX TECHNOLOGIES                                              │
-│                                                                    │
-│  → Engineering modern web applications                             │
-│  → Building scalable frontend systems                               │
-│  → Working with React / Next.js / TypeScript                        │
-│  → Translating product requirements into interfaces                 │
-│                                                                    │
-├────────────────────────────────────────────────────────────────────┤
-│  2022 — PRESENT                                                    │
-│                                                                    │
-│  FREELANCE GRAPHIC DESIGNER                                        │
-│                                                                    │
-│  → Brand identities                                                 │
-│  → Social media campaigns                                           │
-│  → Marketing creatives                                              │
-│  → Digital artwork                                                  │
-│  → 100+ creative projects                                           │
-│                                                                    │
-├────────────────────────────────────────────────────────────────────┤
-│  2024                                                               │
-│                                                                    │
-│  UI / UX + MOTION                                                   │
-│                                                                    │
-│  → Interface design                                                 │
-│  → Motion systems                                                   │
-│  → Visual storytelling                                              │
-│  → Creative direction                                               │
-╰────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                         CURRENT QUEST                        │
+│                                                              │
+│  Building interfaces that feel less like websites           │
+│  and more like experiences.                                  │
+│                                                              │
+│  ────────────────────────────────────────────────────────    │
+│                                                              │
+│  ◆ Engineering modern frontend systems                      │
+│  ◆ Exploring motion-driven interfaces                        │
+│  ◆ Designing digital products                                │
+│  ◆ Building experimental tools                               │
+│  ◆ Learning systems beyond the interface                     │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# 🚀 `SELECTED BUILDS`
+<div align="center">
+
+## `03 / THE WORLD I BUILD IN`
+
+### CODE    ×    DESIGN    ×    MOTION
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌐 CODE
+
+React
+Next.js
+TypeScript
+JavaScript
+APIs
+Frontend Systems
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎨 DESIGN
+
+UI / UX
+Figma
+Photoshop
+Illustrator
+Branding
+Visual Systems
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎬 MOTION
+
+DaVinci Resolve
+After Effects
+Motion Design
+Video Editing
+Visual Storytelling
+Cinematic UI
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
+
+## `04 / SKILL INVENTORY`
+
+</div>
+
+### FRONTEND
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,framer,threejs"/>
+</p>
+
+### BACKEND & DATA
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,php,mongodb,postgres,mysql"/>
+</p>
+
+### TOOLS
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify"/>
+</p>
+
+### CREATIVE
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,premiere"/>
+</p>
+
+---
+
+<div align="center">
+
+## `05 / QUEST LOG`
+
+</div>
+
+```text
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│  2025 — PRESENT                                             │
+│                                                             │
+│  FRONTEND DEVELOPER                                         │
+│  ASIMOVX TECHNOLOGIES                                       │
+│                                                             │
+│  → Modern frontend development                              │
+│  → React / Next.js applications                             │
+│  → API-driven interfaces                                    │
+│  → Product & admin systems                                  │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  2022 — PRESENT                                             │
+│                                                             │
+│  FREELANCE GRAPHIC DESIGNER                                 │
+│                                                             │
+│  → Brand identities                                         │
+│  → Digital campaigns                                        │
+│  → Marketing creatives                                      │
+│  → Visual artwork                                           │
+│  → 100+ creative projects                                   │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  2024                                                       │
+│                                                             │
+│  UI / UX + MOTION                                           │
+│                                                             │
+│  → Interface design                                         │
+│  → Motion systems                                           │
+│  → Visual storytelling                                     │
+│  → Creative direction                                      │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
+```
+
+---
+
+<div align="center">
+
+## `06 / SELECTED BUILDS`
+
+</div>
 
 <table>
 <tr>
@@ -200,9 +264,9 @@ CURRENT OBJECTIVES
 
 ### ⚡ PRINTDOT
 
-Printing commerce ecosystem with customer-facing ordering, product management and administrative systems.
+A digital printing ecosystem with customer ordering, product management and administrative systems.
 
-`Next.js` `React` `TypeScript` `REST API`
+`NEXT.JS` `REACT` `TYPESCRIPT` `API`
 
 </td>
 
@@ -210,9 +274,9 @@ Printing commerce ecosystem with customer-facing ordering, product management an
 
 ### 🧠 D.A.V.E
 
-Personal digital headquarters concept combining interfaces, agents, workspaces and experimental automation.
+A personal digital headquarters concept exploring agents, workspaces, interfaces and automation.
 
-`Next.js` `PixiJS` `Zustand` `FastAPI`
+`NEXT.JS` `PIXIJS` `ZUSTAND` `FASTAPI`
 
 </td>
 </tr>
@@ -222,9 +286,9 @@ Personal digital headquarters concept combining interfaces, agents, workspaces a
 
 ### 🏢 DON'S HEADQUARTERS
 
-A personal command center designed around a virtual workspace where digital agents have their own departments.
+A personal command center designed as a virtual workspace with digital departments and agents.
 
-`Next.js` `PixiJS` `WebSocket` `FastAPI`
+`NEXT.JS` `PIXIJS` `WEBSOCKET` `FASTAPI`
 
 </td>
 
@@ -232,9 +296,213 @@ A personal command center designed around a virtual workspace where digital agen
 
 ### 🎨 CREATIVE SYSTEMS
 
-A collection of visual experiments combining branding, UI, motion graphics and cinematic presentation.
+Visual experiments combining branding, UI, motion graphics and cinematic presentation.
 
-`Figma` `Photoshop` `Illustrator` `DaVinci`
+`FIGMA` `PHOTOSHOP` `ILLUSTRATOR` `DAVINCI`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `07 / EXPERIMENT LAB`
+
+### THINGS THAT PROBABLY DIDN'T NEED TO EXIST.
+
+### SO I BUILT THEM.
+
+</div>
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  EXPERIMENT 001                                             │
+│  ───────────────────────────────────────────────────────    │
+│  AGENT INTERFACES                                           │
+│                                                             │
+│  Exploring interfaces where digital agents have identity,  │
+│  roles, environments and responsibilities.                  │
+│                                                             │
+│                                                             │
+│  EXPERIMENT 002                                             │
+│  ───────────────────────────────────────────────────────    │
+│  CINEMATIC UI                                                │
+│                                                             │
+│  Interfaces built around motion, depth, atmosphere and      │
+│  visual storytelling.                                      │
+│                                                             │
+│                                                             │
+│  EXPERIMENT 003                                             │
+│  ───────────────────────────────────────────────────────    │
+│  PERSONAL DIGITAL SYSTEMS                                   │
+│                                                             │
+│  Turning ordinary workspaces into command centers.          │
+│                                                             │
+│                                                             │
+│  EXPERIMENT 004                                             │
+│  ───────────────────────────────────────────────────────    │
+│  ZERO-BUDGET ENGINEERING                                    │
+│                                                             │
+│  Finding creative ways to build useful products under       │
+│  real-world constraints.                                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## `08 / MY DESIGN PHILOSOPHY`
+
+</div>
+
+<table>
+<tr>
+<td align="center">
+
+### 01
+
+**MAKE IT SIMPLE**
+
+Complex systems don't need complex interfaces.
+
+</td>
+
+<td align="center">
+
+### 02
+
+**MAKE IT FEEL**
+
+Motion should communicate, not decorate.
+
+</td>
+
+<td align="center">
+
+### 03
+
+**MAKE IT MEMORABLE**
+
+Good products work.
+
+Great products leave an impression.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `09 / GITHUB TELEMETRY`
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=DonBinoy&show_icons=true&hide_border=true&bg_color=050505&title_color=00F2FF&text_color=FFFFFF&icon_color=FF0055&include_all_commits=true&count_private=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBinoy&layout=compact&hide_border=true&bg_color=050505&title_color=00F2FF&text_color=FFFFFF&icon_color=FF0055&langs_count=8" width="40%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=DonBinoy&theme=dark&hide_border=true&background=050505&ring=00F2FF&fire=FF0055&currStreakLabel=00F2FF&sideLabels=FFFFFF&dates=888888" width="70%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `10 / ACTIVITY`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DonBinoy&bg_color=050505&color=00F2FF&line=00F2FF&point=FF0055&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `11 / CONTRIBUTION SIGNAL`
+
+<img src="https://raw.githubusercontent.com/DonBinoy/DonBinoy/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `12 / SYSTEM STATUS`
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  FRONTEND ENGINEERING       ● OPERATIONAL                    │
+│  VISUAL DESIGN              ● OPERATIONAL                    │
+│  MOTION                     ● ACTIVE                         │
+│  EXPERIMENTS                ● RUNNING                        │
+│  LEARNING                   ● RUNNING                        │
+│  IDEAS                      ● OVERFLOW                       │
+│                                                              │
+│  ────────────────────────────────────────────────────────    │
+│                                                              │
+│  COFFEE                     ████████████████████  100%        │
+│  SLEEP                      ███░░░░░░░░░░░░░░░░   15%        │
+│  BUGS                       ███████████████████░   95%        │
+│                                                              │
+│  SYSTEM                    >>> ONLINE                        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `13 / BEYOND THE SCREEN`
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+### 🎨 DESIGN
+
+Visual identity
+Branding
+Digital artwork
+Creative direction
+
+</td>
+
+<td align="center">
+
+### 🎬 VIDEO
+
+Editing
+Motion graphics
+Storytelling
+Cinematic visuals
+
+</td>
+
+<td align="center">
+
+### 🧠 THINK
+
+Products
+Systems
+Experiments
+New ideas
 
 </td>
 </tr>
@@ -244,255 +512,55 @@ A collection of visual experiments combining branding, UI, motion graphics and c
 
 ---
 
-# 🧪 `EXPERIMENT LAB`
-
-> **Some ideas are too weird not to build.**
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    EXPERIMENT LAB                            │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [01] AGENT INTERFACES                                       │
-│       Exploring interfaces where digital agents have        │
-│       identity, roles, environments and responsibilities.    │
-│                                                              │
-│  [02] CINEMATIC UI                                            │
-│       Interfaces built around motion, depth, atmosphere      │
-│       and visual storytelling.                               │
-│                                                              │
-│  [03] PERSONAL OPERATING SYSTEMS                             │
-│       Turning a workspace into a digital command center.     │
-│                                                              │
-│  [04] ZERO-BUDGET ENGINEERING                                │
-│       Building useful products under real-world constraints. │
-│                                                              │
-│  [05] INTERFACE EXPERIMENTS                                  │
-│       Because normal interfaces are sometimes boring.       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🎨 `CREATIVE MODE`
-
 <div align="center">
 
-```text
-                         CODE
-                          │
-                          │
-                          ▼
-                   ┌───────────────┐
-                   │      DON      │
-                   └───────────────┘
-                      ▲         ▲
-                      │         │
-                    DESIGN    MOTION
-                      │         │
-                      └────┬────┘
-                           │
-                           ▼
-                      EXPERIENCE
-```
+# `14 / NEXT QUEST`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=BUILDING+BETTER+PRODUCTS.;LEARNING+DEEPER+SYSTEMS.;EXPERIMENTING+WITH+NEW+INTERFACES.;MAKING+THE+WEB+LESS+BORING." />
 
 </div>
 
-```text
-CODE        → makes it function
-
-DESIGN      → makes it understandable
-
-MOTION      → makes it feel alive
-
-STORY       → makes people remember it
-```
-
 ---
-
-# 📡 `GITHUB TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DonBinoy&show_icons=true&hide_border=true&bg_color=050505&title_color=00F2FF&text_color=FFFFFF&icon_color=FF0055&include_all_commits=true&count_private=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonBinoy&layout=compact&hide_border=true&bg_color=050505&title_color=00F2FF&text_color=FFFFFF&icon_color=FF0055&langs_count=8" width="40%" />
-
-</div>
+## `15 / END SCENE`
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DonBinoy&theme=dark&hide_border=true&background=050505&ring=00F2FF&fire=FF0055&currStreakLabel=00F2FF&sideLabels=FFFFFF&dates=888888" width="70%" />
-
-</div>
-
----
-
-# 📈 `ACTIVITY MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DonBinoy&bg_color=050505&color=00F2FF&line=00F2FF&point=FF0055&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-# 🐍 `CONTRIBUTION PROTOCOL`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DonBinoy/DonBinoy/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-# 🧠 `OPERATING PRINCIPLES`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     DON'S RULES                              │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  01  If it can be simpler → simplify it.                    │
-│                                                              │
-│  02  If it can be beautiful → make it beautiful.             │
-│                                                              │
-│  03  If it can move → make the motion meaningful.             │
-│                                                              │
-│  04  If the idea doesn't exist → build it.                   │
-│                                                              │
-│  05  Don't just copy the interface.                          │
-│      Understand the system behind it.                        │
-│                                                              │
-│  06  Good technology solves problems.                        │
-│      Great technology disappears into the experience.        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 📊 `SKILL MATRIX`
-
-<div align="center">
-
-| DOMAIN                   |          LEVEL         | PRIMARY TOOLS                   |
-| :----------------------- | :--------------------: | :------------------------------ |
-| **Frontend Engineering** | `███████████████████░` | React • Next.js • TypeScript    |
-| **UI Engineering**       | `███████████████████░` | Tailwind • CSS • Framer Motion  |
-| **Visual Design**        | `████████████████████` | Photoshop • Illustrator • Figma |
-| **Motion & Video**       | `██████████████████░░` | DaVinci • After Effects         |
-| **Backend & APIs**       | `███████████████░░░░░` | Node • FastAPI • PHP            |
-| **Databases**            | `██████████████░░░░░░` | MongoDB • PostgreSQL • MySQL    |
-| **Experimentation**      | `████████████████████` | Prototypes • Systems • Ideas    |
-
-</div>
-
----
-
-# 🛰️ `SYSTEM MONITOR`
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                     DON // SYSTEM MONITOR                    │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  FRONTEND              ● OPERATIONAL                         │
-│  DESIGN                ● OPERATIONAL                         │
-│  MOTION                ● OPERATIONAL                         │
-│  EXPERIMENTS           ● ACTIVE                              │
-│  LEARNING              ● RUNNING                             │
-│  IDEAS                 ● OVERFLOW                            │
-│                                                              │
-│  COFFEE                ████████████████████  100%            │
-│  SLEEP                 ███░░░░░░░░░░░░░░░░   15%             │
-│  BUGS                  ███████████████████░   95%             │
-│                                                              │
-│  OVERALL STATUS        >>> BUILDING                          │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
----
-
-# ⚡ `BEYOND THE CODE`
-
-<div align="center">
-
-```text
-CODE
-████████████████████████████████████████  100%
-
-DESIGN
-████████████████████████████████████████  100%
-
-FRONTEND
-██████████████████████████████████████░░   95%
-
-VIDEO
-████████████████████████████████████░░░░   90%
-
-UI / UX
-████████████████████████████████████░░░░   90%
-
-EXPERIMENTATION
-████████████████████████████████████████  100%
-```
-
-</div>
-
----
-
-# 🌌 `FINAL TRANSMISSION`
-
-<div align="center">
-
-## BUILD SOMETHING WORTH REMEMBERING.
+### **BUILD SOMETHING WORTH REMEMBERING.**
 
 <br/>
 
-I'm interested in interesting products, unusual ideas,
-creative collaborations and ambitious things that don't exist yet.
+`CODE`   `DESIGN`   `MOTION`   `EXPERIMENTATION`
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/don-binoy-4050b2224">
-<img src="https://img.shields.io/badge/CONNECT-00F2FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LET'S_CONNECT-00F2FF?style=for-the-badge&logo=linkedin&logoColor=050505"/>
 </a>
 
- 
-
 <a href="https://instagram.com/don_binoy_">
-<img src="https://img.shields.io/badge/EXPLORE-FF0055?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOLLOW_THE_WORK-FF0055?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
 
 ```text
-> CONNECTION ESTABLISHED
+> CHARACTER PROFILE COMPLETE
 
-> DON // DIGITAL HEADQUARTERS
+> DON.BINOY
 
-> SYSTEM STATUS: ONLINE
+> FRONTEND ENGINEER
+> CREATIVE TECHNOLOGIST
+> VISUAL BUILDER
 
-> BUILD. BREAK. LEARN. REPEAT.
+> STATUS: STILL BUILDING_
 
-> END OF TRANSMISSION_
 ```
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,50:00161a,100:050505&height=150&section=footer" width="100%"/>
-
-<b>DON BINOY // FRONTEND ENGINEER × CREATIVE TECHNOLOGIST</b>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FF,50:00161A,100:050505&height=130&section=footer" width="100%"/>
 
 </div>
